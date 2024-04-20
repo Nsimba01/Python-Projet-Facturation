@@ -1,0 +1,19 @@
+[paths]
+excel_file = "C:/Users/33651/Desktop/Client-Python/account.invoice(1).xlsx"
+
+[email]
+sender = "oceane.guiovanna@gmail.com"
+password = "lvlk xsbt zjkt dfjh"
+receiver = "Laetitia_sfeir@hotmail.com"
+subject = "Mail de relance"
+
+[smtp]
+server = "smtp.gmail.com"
+port = 587
+
+[plot]
+pdf_name = "Report.pdf"
+
+[columns]
+status = "Status"
+amount = "Montant1"
